@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan105&show_icons=true&locale=en&layout=compact" alt="aryan105" style="margin-right: 20px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan105&show_icons=true&locale=en&layout=compact" alt="aryan105" style="margin-right: 40px;" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan105&" alt="aryan105" />
 </p>
 

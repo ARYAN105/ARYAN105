@@ -10,8 +10,14 @@
 - 📫 How to reach me **aryan.gaikwad11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan105&show_icons=true&locale=en&layout=compact" alt="aryan105" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan105&" alt="aryan105" /></p>
+<div style="margin-bottom: 20px;">
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan105&show_icons=true&locale=en&layout=compact" alt="aryan105" /></p>
+</div>
+
+<div style="margin-top: 20px;">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan105&" alt="aryan105" /></p>
+</div>
+
 <p align="left">
 <a href="https://linkedin.com/in/aryan-gaikwad-84401a203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-gaikwad-84401a203" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users//21369533/aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/21369533/aryan" height="30" width="40" /></a>

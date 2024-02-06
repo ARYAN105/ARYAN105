@@ -10,10 +10,11 @@
 - 📫 How to reach me **aryan.gaikwad11@gmail.com**
 
 
-<p>
+<div style="margin-left: 20px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan105&show_icons=true&locale=en&layout=compact" alt="aryan105" style="margin-left: 20px;" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan105&" alt="aryan105" />
-</p>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

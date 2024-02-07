@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Gaikwad</h1>
-<h3 align="center">I am a dedicated and results-driven software engineer and developer with a relentless commitment to continuous learning and a strong desire to bring innovative ideas to life. With a solid foundation in computer science and a passion for technology, I have cultivated a diverse skill set that enables me to thrive in dynamic and challenging environments.</h3>
+<h3 align="center">I am a dedicated and results driven software engineer and developer with a relentless commitment to continuous learning and a strong desire to bring innovative ideas to life. With a solid foundation in computer science and a passion for technology, I have cultivated a diverse skill set that enables me to thrive in dynamic and challenging environments.</h3>
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
@@ -16,7 +16,7 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/aryan-gaikwad-84401a203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-gaikwad-84401a203" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users//21369533/aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/21369533/aryan" height="30" width="40" /></a>

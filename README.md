@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Gaikwad</h1>
 <h3 align="center">I am a dedicated and results driven software engineer and developer with a relentless commitment to continuous learning and a strong desire to bring innovative ideas to life. With a solid foundation in computer science and a passion for technology, I have cultivated a diverse skill set that enables me to thrive in dynamic and challenging environments.</h3>
 
-- 🌱 I’m currently learning **React.js, Next.js**
+- 🌱 I’m currently learning **React.js, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ARYAN105](https://github.com/ARYAN105)
 
